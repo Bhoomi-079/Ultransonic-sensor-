@@ -10,6 +10,7 @@ A simple yet effective project using **Arduino** and **HC-SR04** ultrasonic sens
 - Well-commented and easy-to-understand code
 - Easy to expand (LCD, OLED, buzzer, parking sensor, etc.)
 
+
 ## 🛠 Hardware Components
 - Arduino Uno / Nano / Mega
 - HC-SR04 Ultrasonic Sensor
@@ -20,7 +21,11 @@ A simple yet effective project using **Arduino** and **HC-SR04** ultrasonic sens
 - image of connections and how it looks like 
 
 ![Working Demo](images/working.gif)
+RESULT ON SERIAL MONITOR WHEN OBJECT WAS BROUGHT NEAR TO SENSOR
 
+
+![WhatsApp Image 2026-04-11 at 4 05 10 AM](https://github.com/user-attachments/assets/48ba2e72-f0a6-4d7e-835a-a81115c9e19d)
+ 
 ## 📌 Circuit Connections
 
 | HC-SR04 Pin | Arduino Pin |
