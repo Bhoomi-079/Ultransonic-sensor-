@@ -16,6 +16,11 @@ A simple yet effective project using **Arduino** and **HC-SR04** ultrasonic sens
 - Jumper wires
 - Breadboard (optional)
 
+- ![Description of Image](ultrasonic.jpeg)
+- image of connections and how it looks like 
+
+![Working Demo](images/working.gif)
+
 ## 📌 Circuit Connections
 
 | HC-SR04 Pin | Arduino Pin |
